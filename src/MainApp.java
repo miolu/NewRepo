@@ -10,6 +10,10 @@ public class MainApp
 		
 		nc.method();
 		
+		AnotherNewClass anc = new AnotherNewClass();
+		
+		anc.method();
+		
 		System.out.println("After calling method");
 		
 		System.out.println("Before getting out");
