@@ -10,6 +10,8 @@ public class MainApp
 		
 		nc.method();
 		
+		System.out.println("After calling method");
+		
 		System.out.println("Before getting out");
 	}
 
